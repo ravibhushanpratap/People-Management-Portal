@@ -1,6 +1,6 @@
-# Single-Page-Application (Angular 8)
+# People - Management Portal (Angular 8)
 
-Single Page Application to manage a list of people with three views:
+People Management Portal to manage a list of people with three views:
 - List all people
 - Edit a person
 - Delete a person
